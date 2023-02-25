@@ -60,24 +60,24 @@ beginning:
 					cout<<"\t\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<pizza1;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\n\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\n\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 2:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<"  "<<pizza2;
 					cout<<"\nYour Total Bill is "<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 3:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<pizza3;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 4:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 
 			}
@@ -125,19 +125,19 @@ beginning:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<bur1;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food \n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 2:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<"  "<<bur2;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Pizza\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 3:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<bur3;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 
 
@@ -180,19 +180,19 @@ beginning:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<sand1;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 2:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<"  "<<sand2;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 3:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<sand2;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 
 
@@ -237,19 +237,19 @@ beginning:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<roll1;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 2:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<"  "<<roll2;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 3:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<roll3;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 
 
@@ -286,19 +286,19 @@ beginning:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<bir1;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food \n";
+					cout<<"\nThank you For Ordering From Savan Fast Food \n";
 					break;
 				case 2:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<"  "<<bir2;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 				case 3:
 					cout<<"\t\t--------Your Order---------\n";
 					cout<<""<<quantity<<" "<<bir3;
 					cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-					cout<<"\nThank you For Ordering From Carl's Jr. Fast Food\n";
+					cout<<"\nThank you For Ordering From Savan Fast Food\n";
 					break;
 
 
